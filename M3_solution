@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -32,24 +31,23 @@
         <ul id="nav-list" class="nav navba-nav navbar-right">
           <li>
             <a herf="menu-categories.html">
-              <br class="hidden-lg"> Chicken</a>
+              <br class="hidden-xs"> Chicken</a>
             </li>
             <li>
               <a herf="#">
-                <br class="hidden-lg"> Beef</a>
+                <br class="hidden-xs"> Beef</a>
               </li>
               <li>
                 <a herf="#">
-                  <br class="hidden-lg"> Sushi</a>
+                  <br class="hidden-xs"> Sushi</a>
               </li>
               </ul>
               </div>
 
      <div>
-    </nav>
-  </header>
-  
-</head>
+
+
+  </style>
 <body>
 
   <div class="row">
@@ -60,7 +58,10 @@
    
 
 
-</body>
-</html>
+
+    
+
+
+    
 
     
